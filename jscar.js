@@ -1,4 +1,4 @@
-var fiat = { 
+let fiat = { 
     make: "Fiat",
     model: "500",
     year: 1957, 
